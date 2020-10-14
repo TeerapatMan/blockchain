@@ -27,6 +27,64 @@
         "address": "0xE15156F76701AF0F5c4c89C41211A0b04751DF04",
         "kind": "NonProxy",
         "bytecodeHash": "78159fcdcb717d087be0f94203786e2923c00ec6afd12cdc5fa18c59b7608631"
+      },
+      {
+        "address": "0xDEc463C126a5A6c9A2db35438fE277828C5547A2",
+        "kind": "NonProxy",
+        "bytecodeHash": "78159fcdcb717d087be0f94203786e2923c00ec6afd12cdc5fa18c59b7608631"
+      },
+      {
+        "address": "0xe309E0911dd2301e962F77364D2E128Efe92bF86",
+        "kind": "NonProxy",
+        "bytecodeHash": "78159fcdcb717d087be0f94203786e2923c00ec6afd12cdc5fa18c59b7608631"
+      }
+    ],
+    "blockchain/MyToken": [
+      {
+        "address": "0xfe219fa1ce658C5C20d7079347512f14e5D03043",
+        "kind": "NonProxy",
+        "bytecodeHash": "5f3ce8f1b09780e93209eba72942894da5bbc99bde01bea38cf122d2dc2f5e15"
+      },
+      {
+        "address": "0x4489B13424Ca5C6B14888f0212BB5431C1bB6Ec7",
+        "kind": "NonProxy",
+        "bytecodeHash": "5f3ce8f1b09780e93209eba72942894da5bbc99bde01bea38cf122d2dc2f5e15"
+      },
+      {
+        "address": "0xA83dcd65701B8C60133Fc0781C852Bd2B2366e3f",
+        "kind": "NonProxy",
+        "bytecodeHash": "5f3ce8f1b09780e93209eba72942894da5bbc99bde01bea38cf122d2dc2f5e15"
+      }
+    ],
+    "blockchain/GLDToken": [
+      {
+        "address": "0x0E8da1F321C2Fe27A3736a2613BfE6beC3Bd0C19",
+        "kind": "NonProxy",
+        "bytecodeHash": "50ecd4e52387cab4220ad3ddf8c87e681f5d2dd8464823541bbb7e1234ca3431"
+      }
+    ],
+    "blockchain/SLEEPToken": [
+      {
+        "address": "0xB420bB06ec501cbBCcc708aadFC8Abb748A2b637",
+        "kind": "NonProxy",
+        "bytecodeHash": "b6cbe01c3846559002d8a60ce475431db99f2b68a10111678747a1c0e3f5f65c"
+      },
+      {
+        "address": "0xB853ee97B7B56f68268bf17E375461F107800858",
+        "kind": "NonProxy",
+        "bytecodeHash": "51c294e411bfbc9256404466404194255773058d86a6498dc97100e2284d266c"
+      },
+      {
+        "address": "0x0c603D4A0ddeD581a47907347939be371495925D",
+        "kind": "NonProxy",
+        "bytecodeHash": "b6cbe01c3846559002d8a60ce475431db99f2b68a10111678747a1c0e3f5f65c"
+      }
+    ],
+    "blockchain/MyContract": [
+      {
+        "address": "0xd0cA98050c8c7FCeA59c599E4dC17d26575fB3D0",
+        "kind": "NonProxy",
+        "bytecodeHash": "ca0ef790b5ca196ad889e82d6d6bda0746425ab644dfcbe5692282839886acad"
       }
     ]
   },
