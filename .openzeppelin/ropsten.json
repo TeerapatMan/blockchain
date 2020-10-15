@@ -37,6 +37,11 @@
         "address": "0xe309E0911dd2301e962F77364D2E128Efe92bF86",
         "kind": "NonProxy",
         "bytecodeHash": "78159fcdcb717d087be0f94203786e2923c00ec6afd12cdc5fa18c59b7608631"
+      },
+      {
+        "address": "0x6102F01A1A46778Da6c9b1E4846766fB477d6e15",
+        "kind": "NonProxy",
+        "bytecodeHash": "78159fcdcb717d087be0f94203786e2923c00ec6afd12cdc5fa18c59b7608631"
       }
     ],
     "blockchain/MyToken": [
@@ -76,6 +81,16 @@
       },
       {
         "address": "0x0c603D4A0ddeD581a47907347939be371495925D",
+        "kind": "NonProxy",
+        "bytecodeHash": "b6cbe01c3846559002d8a60ce475431db99f2b68a10111678747a1c0e3f5f65c"
+      },
+      {
+        "address": "0x9c440D05DF6F6A5c97e2CfB4e95d1e10F0Fe614d",
+        "kind": "NonProxy",
+        "bytecodeHash": "b6cbe01c3846559002d8a60ce475431db99f2b68a10111678747a1c0e3f5f65c"
+      },
+      {
+        "address": "0xF484d2E4B1AfAa7a61C328CBC2e44E408b88e8Aa",
         "kind": "NonProxy",
         "bytecodeHash": "b6cbe01c3846559002d8a60ce475431db99f2b68a10111678747a1c0e3f5f65c"
       }
